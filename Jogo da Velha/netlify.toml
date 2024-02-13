@@ -1,0 +1,3 @@
+[build]   
+command = "npm run build"   
+publish = "build"  # ou o diretório correto onde seus arquivos de build são gerados
